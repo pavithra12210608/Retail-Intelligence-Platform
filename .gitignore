@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Power BI files (large, upload later selectively)
+*.pbix
+
+# OS files
+Thumbs.db
+.DS_Store
