@@ -6,7 +6,7 @@ End-to-End Retail Sales Analytics & Customer Intelligence System
 
 The Retail Intelligence Platform is an end-to-end data analytics and business intelligence system designed to transform raw retail transaction data into actionable insights for business decision-making.
 
-This project integrates SQL, Python, Power BI, and FastAPI to perform data ingestion, cleaning, customer segmentation (RFM), advanced analytics, interactive dashboards, and API-based data access — simulating a real-world retail analytics solution used by modern organizations.
+This project integrates SQL, Python, Power BI, and FastAPI to perform data ingestion, cleaning, customer segmentation (RFM), advanced analytics, interactive dashboards, and API-based data access , simulating a real-world retail analytics solution used by modern organizations.
 
 🎯 Objectives
 
