@@ -35,6 +35,7 @@ How can customers be segmented for targeted marketing?
 How can analytics be served programmatically via APIs?
 
 🏗️ System Architecture
+
 Raw Retail Data (CSV)
         ↓
      SQL Analysis
@@ -44,7 +45,9 @@ Raw Retail Data (CSV)
  Power BI Dashboards (Insights & KPIs)
         ↓
      FastAPI (Analytics APIs)
+     
 🛠️ Technology Stack
+
 Layer	Technology
 Database	MySQL / SQL
 Data Processing	Python (Pandas, NumPy)
@@ -52,7 +55,9 @@ Analytics	RFM Analysis
 Visualization	Power BI
 API Layer	FastAPI
 Version Control	Git & GitHub
+
 📁 Project Structure
+
 Retail-Intelligence-Platform/
 │
 ├── data/
